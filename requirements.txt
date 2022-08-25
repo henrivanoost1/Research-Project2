@@ -1,0 +1,13 @@
+pytimeextractor
+opencv-python
+pytesseract
+regex
+AST
+numpy
+pillow
+pythonRLSA==0.0.2
+Cython 
+flask
+pyjnius==1.4.1
+google-cloud
+google-cloud-vision_v1
